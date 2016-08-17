@@ -1,9 +1,9 @@
 class Vimux < Formula
-  VERSION = "1.0.0"
+  VERSION = "2.0.0"
 
   desc "Tmux project session with vim"
   url "https://github.com/peterdemartini/dev-tools-vimux/archive/v#{VERSION}.tar.gz"
-  sha256 "964f69c8e0a195dff6f8e529bc4b00fce96b18d2362ff3ff34522c6c9558876e"
+  sha256 "9420e148163efd7c711037a7c48925fbc1c166580b68bc6b6990bda3d2635069"
 
   depends_on "tmux"
 
